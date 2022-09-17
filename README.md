@@ -27,7 +27,7 @@
 
 ---
 
-### Github Activity ✨
+### Github Stats ✨
 
 <a href="https://github.com/Akosovski">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github_dark&hide_border=true"/>
