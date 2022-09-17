@@ -30,11 +30,11 @@
 ### Github Stats ✨
 
 <a href="https://github.com/Akosovski">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Akosovski&show_icons=true&theme=github_dark&line_height=27&count_private=true&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github_dark&hide_border=true"/>
 </a>
 
 <a href="https://github.com/Akosovski">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github_dark&hide_border=true"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akosovski&show_icons=true&theme=github_dark&line_height=27&count_private=true&hide_border=true"/>
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
