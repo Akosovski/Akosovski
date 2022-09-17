@@ -10,7 +10,7 @@
 
 ---
 
-### Github Activity ✨:
+### Github Activity ✨
 
 <a href="https://github.com/Akosovski">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github_dark&hide_border=true"/>
@@ -19,3 +19,8 @@
 <a href="https://github.com/Akosovski">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akosovski&show_icons=true&theme=github_dark&line_height=27&count_private=true&hide_border=true"/>
 </a>
+
+<a href="https://github.com/Akosovski">
+ <img align="left" src="https://streak-stats.demolab.com?user=&theme=github-dark-blue&hide_border=true"/>
+</a>
+
