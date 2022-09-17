@@ -13,7 +13,7 @@
 ### Github Activity ✨:
 
 <a href="https://github.com/Akosovski">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=tokyonight" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=tokyonight"/>
 </a>
 
 <a href="https://github.com/Akosovski">
@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/Akosovski">
- <img align="right" src="http://github-readme-streak-stats.herokuapp.com?user=Akosovski&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+ <img align="right" src="https://github-readme-stats.vercel.app/api/streak/?username=Akosovski&theme=tokyonight"/>
 </a>
