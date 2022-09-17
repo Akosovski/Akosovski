@@ -39,5 +39,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
-### Have a nice day! 👨🏻‍💻
-<h1 align="center">Material Bread</h1>
+<h3 align="center">Have a nice day! 👨🏻‍💻</h3>
