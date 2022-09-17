@@ -38,5 +38,5 @@
 </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
 ## Have a nice day! 👨🏻‍💻
+
