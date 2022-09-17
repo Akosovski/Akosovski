@@ -1,12 +1,29 @@
-### Hello there 👋 I'm Akhta
+## Hello there 👋 I'm Akhta
 
 ✨ I'm a frontend developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used on daily activities to make life easier.
 
 - 🔭 I’m currently working on [MyXP](https://github.com/Akosovski/MyXP)
-- 🌱 I’m currently learning React, Vue & Node
+- 🌱 I’m currently learning **React.js**, **Vue.js** & **Node.js**
 - 💙 [Django](https://docs.djangoproject.com/en/4.0/) is my favorite
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: akhtacaesar@gmail.com
+- 😄 Pronouns: **He/Him**
+- 📫 How to reach me: **akhtacaesar@gmail.com**
+
+---
+
+### Languages & Tools 🛠️
+
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+</p>
+
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a>
+  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+</p>
 
 ---
 
