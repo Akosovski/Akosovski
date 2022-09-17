@@ -13,13 +13,13 @@
 ### Github Activity ✨:
 
 <a href="https://github.com/Akosovski">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=tokyonight_duo"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github_dark"/>
 </a>
 
 <a href="https://github.com/Akosovski">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akosovski&show_icons=true&theme=tokyonight_duo&line_height=27"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Akosovski&show_icons=true&theme=github_dark&line_height=27"/>
 </a>
 
 <a href="https://github.com/Akosovski">
- <img align="right" src="https://streak-stats.demolab.com?user=Akosovski&theme=tokyonight_duo"/>
+ <img align="right" src="https://streak-stats.demolab.com?user=Akosovski&theme=github_dark"/>
 </a>
