@@ -2,7 +2,7 @@
 
 ✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used on daily activities to make life easier.
 
-- 🔭 I’m currently working on [MyXP](https://github.com/Akosovski/MyXP)
+- 🔭 I’m currently working on [Vue-JS](https://github.com/Akosovski/Vue-JS)
 - 🌱 I’m currently learning **[React.js](https://reactjs.org/)**, **[Vue.js](https://vuejs.org/)** & **[Node.js](https://nodejs.org/en/)**
 - 💙 [Django](https://docs.djangoproject.com/en/4.0/) is my favorite
 - 😄 Pronouns: **He/Him**
