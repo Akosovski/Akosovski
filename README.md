@@ -4,8 +4,8 @@
 
 - 🔭 I’m currently working on [Vue-JS](https://github.com/Akosovski/Vue-JS)
 - 🌱 I’m currently learning **[React.js](https://reactjs.org/)**, **[Vue.js](https://vuejs.org/)** & **[Node.js](https://nodejs.org/en/)**
-- 💙 [Django](https://docs.djangoproject.com/en/4.0/) is my favorite
 - 📋 I'm looking forward to learn **[Typescript](https://www.typescriptlang.org/)**
+- 💙 **[Django](https://docs.djangoproject.com/en/4.0/)** is my favorite framework
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me: **akhtacaesar@gmail.com**
 
