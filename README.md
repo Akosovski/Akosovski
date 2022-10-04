@@ -40,8 +40,8 @@
 
 ### Github Stats ✨
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github-dark-blue&hide=procfile&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github-dark-blue&hide=procfile)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
 
 <h3 align="center">Have a nice day! 👨🏻‍💻</h3>
