@@ -40,7 +40,7 @@
 
 ### Github Stats ✨
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akosovski)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blcksda)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
 
 <h3 align="center">Have a nice day! 👨🏻‍💻</h3>
