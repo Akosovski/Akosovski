@@ -40,7 +40,7 @@
 
 ### Github Stats ✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github-dark-blue&hide=procfile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=github-dark-blue)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
 
