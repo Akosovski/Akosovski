@@ -40,6 +40,7 @@
 
 ### Github Stats ✨
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
-
+<div align="center>
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
+</div>
 <h3 align="center">Have a nice day! 👨🏻‍💻</h3>
