@@ -2,7 +2,7 @@
 
 ✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used on daily activities to make life easier.
 
-- 🔭 I’m currently working on -
+- 🔭 I’m currently working on **[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)**
 - 🌱 I’m currently learning **[React.js](https://reactjs.org/)**, **[Vue.js](https://vuejs.org/)** & **[Node.js](https://nodejs.org/en/)**
 - 📋 I'm looking forward to learn **[Typescript](https://www.typescriptlang.org/)**
 - 💙 **[Django](https://docs.djangoproject.com/en/4.0/)** is my favorite framework
