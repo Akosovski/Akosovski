@@ -42,5 +42,5 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
 <br>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=4500&pause=1100&color=C9D1D9&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
-<h3 align="center">Have a nice day! 👨🏻‍💻</h3>
+
+<h3 align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=4500&pause=1100&color=C9D1D9&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)</h3>
