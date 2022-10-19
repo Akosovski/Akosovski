@@ -41,5 +41,6 @@
 ### Github Stats ✨
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have+a+nice+day!+👨🏻‍💻)](https://git.io/typing-svg)
+<br>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Have+a+nice+day!+👨🏻‍💻)
 <h3 align="center">Have a nice day! 👨🏻‍💻</h3>
