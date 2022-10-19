@@ -1,4 +1,4 @@
-## Hello there [👋](https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966) I'm Akhta
+<div align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&size=28&duration=4500&pause=1100&color=EFEFEF&center=true&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Akhta;Welcome+to+my+profile!;Feel+free+to+take+a+look!)](https://git.io/typing-svg)</div>
 
 ✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used on daily activities to make life easier.
 
@@ -43,4 +43,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
 <br>
 <div align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=4500&pause=1100&color=C9D1D9&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"></div>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=4500&pause=1100&color=EFEFEF&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"></div>
