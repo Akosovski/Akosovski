@@ -1,4 +1,4 @@
-<div align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=28&duration=4500&pause=1100&color=EFEFEF&center=true&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Akhta;Welcome+to+my+profile!;Feel+free+to+take+a+look!"></div>
+<div align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=30&duration=3500&pause=650&color=EFEFEF&center=true&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Akhta;Welcome+to+my+profile!;Feel+free+to+take+a+look!"></div>
 
 ✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used on daily activities to make life easier.
 
