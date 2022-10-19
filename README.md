@@ -41,6 +41,6 @@
 ### Github Stats ✨
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=dark&hide_border=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akosovski&theme=dark&hide_border=true)
 
 <h3 align="center">Have a nice day! 👨🏻‍💻</h3>
