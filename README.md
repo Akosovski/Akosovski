@@ -1,4 +1,4 @@
-<div align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=30&duration=3500&pause=650&color=EFEFEF&center=true&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Akhta;Welcome+to+my+profile!;Feel+free+to+take+a+look!"></div>
+<div align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=3500&pause=650&color=EFEFEF&center=true&width=435&lines=Hello+there%F0%9F%91%8B+I'm+Akhta;Welcome+to+my+profile!;Feel+free+to+take+a+look!"></div>
 
 ✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used on daily activities to make life easier.
 
@@ -11,9 +11,9 @@
 
 ---
 
-### Languages & Tools 🛠️
-
-<p align="left">
+<h3 align="center">Languages & Tools 🛠️</h3>
+<br>
+<p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://www.svgrepo.com/show/353884/html-5.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -27,7 +27,7 @@
   <a href="https://laravel.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
@@ -37,10 +37,9 @@
 </p>
 
 ---
+<h3 align="center">Github Stats ✨</h3>
 
-### Github Stats ✨
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)
-<br>
 <div align="center">
-<img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=4500&pause=1100&color=EFEFEF&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"></div>
+<img align="center" src="https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true">
+<br><br>
+<img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=22&duration=3600&pause=700&color=EFEFEF&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"></div>
