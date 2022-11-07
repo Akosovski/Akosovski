@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)**
 - 🌱 I’m currently learning **[Node.js](https://nodejs.org/en/)**
-- 📋 I'm looking forward to learn **[Typescript](https://www.typescriptlang.org/)**
+- 📋 I'm looking forward to learn **[Typescript](https://www.typescriptlang.org/)** & **[Flutter](https://flutter.dev/)**
 - 💙 **[Django](https://docs.djangoproject.com/en/4.0/)** is my favorite framework
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me: **akhtacaesar@gmail.com**
