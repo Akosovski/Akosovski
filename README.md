@@ -20,6 +20,7 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.php.net/" target="_blank"> <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="48" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind" width="48" height="40"/> </a>
   <a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="vue" width="40" height="40"/> </a>
