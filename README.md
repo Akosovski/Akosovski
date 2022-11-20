@@ -18,22 +18,19 @@
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://www.svgrepo.com/show/353623/css-3.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.php.net/" target="_blank"> <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="48" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind" width="48" height="40"/> </a>
   <a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://vuejs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354528/vue.svg" alt="vue" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/378837/node.svg" alt="node" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.apachefriends.org/download.html" target="_blank"> <img src="https://www.svgrepo.com/show/354575/xampp.svg" alt="xampp" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="postgre" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354099/mysql.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
