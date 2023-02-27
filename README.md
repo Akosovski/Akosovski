@@ -37,8 +37,8 @@
 <h3 align="center">Github Stats ✨</h3>
 
 <div align="center">
-<a href="https://github.com/akosovski/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=akosovski&repo=github-readme-stats" />
+<a href="https://github.com/Akosovski/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akosovski&repo=github-readme-stats" />
 </a>
 <br><br>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=23&duration=3600&pause=700&color=EFEFEF&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"></div>
