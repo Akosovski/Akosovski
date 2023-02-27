@@ -37,6 +37,6 @@
 <h3 align="center">Github Stats ✨</h3>
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Akosovski1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=d F[, Y](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=akosovski&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 <br><br>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=23&duration=3600&pause=700&color=EFEFEF&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"></div>
