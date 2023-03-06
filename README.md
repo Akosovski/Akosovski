@@ -39,5 +39,6 @@
 
 <div align="center">
 <img align="center" src="https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true">
+<img align="center" alt="akosovski" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
 <br><br>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=23&duration=3600&pause=700&color=EFEFEF&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB"></div>
