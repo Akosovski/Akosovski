@@ -33,7 +33,7 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354200/postgresql.svg" alt="postgre" width="40" height="40"/> </a>
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="40" height="40"/> </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql" width="40" height="40"/> </a>
 </p>
 
 ---
