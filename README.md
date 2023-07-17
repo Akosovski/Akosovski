@@ -1,10 +1,10 @@
 <div align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=3500&pause=650&color=EFEFEF&center=true&width=435&lines=Hello+there+%F0%9F%91%8B+I'm+Akhta;Welcome+to+my+profile!;Feel+free+to+take+a+look!"></div>
 
-✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used on daily activities to make life easier.
+✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used in daily activities to make life easier.
 
 - 🔭 I’m currently working on **[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)**
-- 🌱 I’m currently learning **[Node.js](https://nodejs.org/en/)**
-- 📋 I'm looking forward to learn **[Typescript](https://www.typescriptlang.org/)** & **[Flutter](https://flutter.dev/)**
+- 🌱 I’m currently learning **[Node.js](https://nodejs.org/en/)** & **[Typescript](https://www.typescriptlang.org/)**
+- 📋 I'm looking forward to learn **[Flutter](https://flutter.dev/)**
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me: **akhtacaesar@gmail.com**
 
