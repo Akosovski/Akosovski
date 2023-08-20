@@ -23,6 +23,7 @@
   <a href="https://docs.djangoproject.com/en/4.0/" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/378837/node.svg" alt="node" width="40" height="40"/> </a>
+  <a href="https://nestjs.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="nest" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353985/laravel.svg" alt="laravel" width="40" height="40"/> </a>
   <a href="https://nextjs.org/" target="_blank"> <img src="https://www.datocms-assets.com/75941/1657707878-nextjs_logo.png" alt="next" width="40" height="40"/> </a>
 </p>
