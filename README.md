@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)**
 - 🌱 I’m currently learning **[Node.js](https://nodejs.org/en/)** & **[Typescript](https://www.typescriptlang.org/)**
-- 📋 I'm looking forward to learn **[Flutter](https://flutter.dev/)**
+- 📋 I'm looking forward to learn **[Flutter](https://flutter.dev/)** and reviewing **[Laravel](https://laravel.com/)**
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me: **akhtacaesar@gmail.com**
 
