@@ -39,9 +39,10 @@
 
 ---
 
-<h3 align="center">Github Stats ✨</h3>
+<h3 align="center">Statistics ✨</h3>
 
 <div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akosovski&theme=github_dark&layout=compact&hide_border=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akosovski&theme=github_dark&rank_icon=github&hide_border=true&show_icons=true"/></div>
 
 <br><br>
