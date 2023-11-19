@@ -43,7 +43,7 @@
   
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akosovski&theme=github_dark&rank_icon=github&hide_border=true&show_icons=true"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akosovski&theme=github_dark&layout=compact&hide_border=true"/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<img align="center" src="https://streak-stats.demolab.com?user=Akosovski&theme=github-dark-blue&hide_border=true"/>
 <br><br>
 <img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=23&duration=3600&pause=700&color=EFEFEF&center=true&width=435&lines=Have+a+nice+day!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB">
 
