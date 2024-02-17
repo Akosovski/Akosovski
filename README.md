@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)**
 - 🌱 I’m currently advancing **[Django](https://docs.djangoproject.com/en/4.1/)** & **[Node.js](https://nodejs.org/en/)**
-- 📋 I'm looking forward to learn **[Flutter](https://flutter.dev/)** and **[React Native](https://reactnative.dev/)**
+- 📋 I'm looking forward to learn more about **[Progressive Web Application](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)****
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me: **akhtacaesar@gmail.com**
 
