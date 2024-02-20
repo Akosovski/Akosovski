@@ -1,8 +1,7 @@
 <div align="center"><img align="center" src="https://readme-typing-svg.demolab.com?font=Arial&size=25&duration=3500&pause=650&color=EFEFEF&center=true&width=435&lines=Hello+there+%F0%9F%91%8B+I'm+Akhta;Welcome+to+my+profile!;Feel+free+to+take+a+look!"></div>
 
-✨ I'm a web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used in daily activities to make life easier.
+✨ I'm a Full-stack web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used in daily activities primarily to make life easier.
 
-- 🔭 I’m currently working on **[The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp)**
 - 🌱 I’m currently advancing **[Django](https://docs.djangoproject.com/en/4.1/)** & **[Next.js](https://nextjs.org/)**
 - 📋 I'm looking forward to learn more about **[Progressive Web Application](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)**
 - 😄 Pronouns: **He/Him**
