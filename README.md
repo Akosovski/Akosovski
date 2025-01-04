@@ -20,7 +20,7 @@
   <a href="https://getbootstrap.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png" alt="bootstrap" width="48" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354431/tailwindcss-icon.svg" alt="tailwind" width="48" height="40"/> </a>
   <a href="https://docs.djangoproject.com/en/5.1/" target="_blank"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://www.svgrepo.com/show/508915/flask.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://flask.palletsprojects.com/en/stable/" target="_blank"> <img src="https://www.kindpng.com/picc/m/188-1882559_python-flask-hd-png-download.png" alt="flask" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://www.svgrepo.com/show/354259/react.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://nodejs.org/en/" target="_blank"> <img src="https://www.svgrepo.com/show/378837/node.svg" alt="node" width="40" height="40"/> </a>
   <a href="https://nestjs.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373872/nestjs.svg" alt="nest" width="40" height="40"/> </a>
