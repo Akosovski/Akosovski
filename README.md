@@ -2,8 +2,8 @@
 
 ✨ I'm a Full-stack web developer currently based in Jakarta, Indonesia. I’m passionate about making web applications to be used in daily activities primarily to make life easier.
 
-- 🌱 I’m currently advancing **[Django](https://docs.djangoproject.com/en/4.1/)** & **[Next.js](https://nextjs.org/)**
-- 📋 I'm looking forward to learn more about **[Progressive Web Application](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)**
+- 🌱 I’m currently advancing **[Flask](https://flask.palletsprojects.com/en/stable/)**, **[Django](https://docs.djangoproject.com/en/5.1/)** & **[Next.js](https://nextjs.org/)**
+- 📋 I'm looking forward to learn more about **Cyber Security** & **Ethical Hacking** 
 - 😄 Pronouns: **He/Him**
 - 📫 How to reach me: **akhtacaesar@gmail.com**
 
