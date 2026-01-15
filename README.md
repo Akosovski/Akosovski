@@ -34,6 +34,8 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.svgrepo.com/show/373845/mongo.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
+---
+
 </div>
 
 <!--
